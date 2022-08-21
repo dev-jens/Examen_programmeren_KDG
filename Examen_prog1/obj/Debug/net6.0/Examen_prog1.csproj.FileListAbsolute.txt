@@ -1,0 +1,15 @@
+C:\Users\baete\Desktop\Examen_prog1\Examen_prog1\bin\Debug\net6.0\Examen_prog1.exe
+C:\Users\baete\Desktop\Examen_prog1\Examen_prog1\bin\Debug\net6.0\Examen_prog1.deps.json
+C:\Users\baete\Desktop\Examen_prog1\Examen_prog1\bin\Debug\net6.0\Examen_prog1.runtimeconfig.json
+C:\Users\baete\Desktop\Examen_prog1\Examen_prog1\bin\Debug\net6.0\Examen_prog1.dll
+C:\Users\baete\Desktop\Examen_prog1\Examen_prog1\bin\Debug\net6.0\Examen_prog1.pdb
+C:\Users\baete\Desktop\Examen_prog1\Examen_prog1\obj\Debug\net6.0\Examen_prog1.csproj.AssemblyReference.cache
+C:\Users\baete\Desktop\Examen_prog1\Examen_prog1\obj\Debug\net6.0\Examen_prog1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baete\Desktop\Examen_prog1\Examen_prog1\obj\Debug\net6.0\Examen_prog1.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\Examen_prog1\Examen_prog1\obj\Debug\net6.0\Examen_prog1.AssemblyInfo.cs
+C:\Users\baete\Desktop\Examen_prog1\Examen_prog1\obj\Debug\net6.0\Examen_prog1.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\Examen_prog1\Examen_prog1\obj\Debug\net6.0\Examen_prog1.dll
+C:\Users\baete\Desktop\Examen_prog1\Examen_prog1\obj\Debug\net6.0\refint\Examen_prog1.dll
+C:\Users\baete\Desktop\Examen_prog1\Examen_prog1\obj\Debug\net6.0\Examen_prog1.pdb
+C:\Users\baete\Desktop\Examen_prog1\Examen_prog1\obj\Debug\net6.0\Examen_prog1.genruntimeconfig.cache
+C:\Users\baete\Desktop\Examen_prog1\Examen_prog1\obj\Debug\net6.0\ref\Examen_prog1.dll
